@@ -4,5 +4,6 @@ this is our project by using wordpress, we use theme and plug-ins, in order to b
 The website contains categories, and each product are under a specific category.
 
 here is the live URL : http://localhost/wordpress10/
+trello link : https://trello.com/b/9TVyp1uI/project
 
 ![Group 3](https://user-images.githubusercontent.com/108790799/188705633-06f47c71-4f7e-4a2c-a78e-3bd6c9aa8fca.png)
